@@ -233,7 +233,7 @@ One minor annoyance with hcreate is you have to specify the maximum table size u
     ```
 
 ### Rust
-The Rust version was writen by Andrew Gallant or more commonly known as [BurnedSuchi](https://github.com/BurntSushi/ripgrep). He wrote a simple and an optimized version which had similar preformance to that of the Go implementation. But then he write 3 more variants. Let's check them out. 
+The Rust version was writen by Andrew Gallant or more commonly known as [BurntSushi](https://github.com/BurntSushi/ripgrep). He wrote a simple and an optimized version which had similar preformance to that of the Go implementation. But then he write 3 more variants. Let's check them out. 
 1. Simple
     * is similar to the simple Go and C++ versions
 2. Optimized
